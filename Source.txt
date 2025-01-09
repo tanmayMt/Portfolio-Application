@@ -1,0 +1,14 @@
+https://github.com/Code-Mars/Portfolio
+https://youtu.be/Qt9jXuWocZI?si=Hbiy-zckx2p1zFug
+Live app link: https://code-mars.github.io/Portfolio/
+Resources & Doubts: https://t.me/code_Marshal
+
+
+We will be using
+React : Developing Frontend.
+TailwindCSS:  CSS styles library and responsiveness.
+Mantine.dev: Component library.
+Tabler Icons: Icons  library.
+
+Connect here for doubts, queries and resources: t.me/code_Marshal
+Github: https://github.com/Code-Mars
